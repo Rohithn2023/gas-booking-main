@@ -1,0 +1,2002 @@
+[
+  {
+    "consumerId": "CUS-001",
+    "consumerName": "Priya Subramanian",
+    "phone": "+91 9805317090",
+    "address": "44/1, Cross Street, Gandhi Nagar, Erode",
+    "areaId": "AREA-01",
+    "areaName": "Gandhi Nagar",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-002",
+    "consumerName": "Kumar Rajan",
+    "phone": "+91 9830743204",
+    "address": "57/2, Anna Salai, Gandhi Nagar, Erode",
+    "areaId": "AREA-01",
+    "areaName": "Gandhi Nagar",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-003",
+    "consumerName": "Suresh Murugan",
+    "phone": "+91 9889667334",
+    "address": "35/3, Kamaraj Street, Gandhi Nagar, Erode",
+    "areaId": "AREA-01",
+    "areaName": "Gandhi Nagar",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-004",
+    "consumerName": "Lakshmi Natarajan",
+    "phone": "+91 9840775643",
+    "address": "31/4, Bharathi Nagar, Gandhi Nagar, Erode",
+    "areaId": "AREA-01",
+    "areaName": "Gandhi Nagar",
+    "totalOrdersHistory": 8,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-005",
+    "consumerName": "Vijay Selvam",
+    "phone": "+91 9896730040",
+    "address": "85/5, Nehru Street, Gandhi Nagar, Erode",
+    "areaId": "AREA-01",
+    "areaName": "Gandhi Nagar",
+    "totalOrdersHistory": 9,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-006",
+    "consumerName": "Kavitha Sundaram",
+    "phone": "+91 9951192864",
+    "address": "55/6, Gandhi Avenue, Gandhi Nagar, Erode",
+    "areaId": "AREA-01",
+    "areaName": "Gandhi Nagar",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-007",
+    "consumerName": "Deepak Chandran",
+    "phone": "+91 9807446926",
+    "address": "76/7, MGR Street, Gandhi Nagar, Erode",
+    "areaId": "AREA-01",
+    "areaName": "Gandhi Nagar",
+    "totalOrdersHistory": 3,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-008",
+    "consumerName": "Anitha Venkatesan",
+    "phone": "+91 9839499543",
+    "address": "113/8, Periyar Street, Gandhi Nagar, Erode",
+    "areaId": "AREA-01",
+    "areaName": "Gandhi Nagar",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-009",
+    "consumerName": "Ramesh Balakrishnan",
+    "phone": "+91 9905038492",
+    "address": "63/9, VOB Street, Gandhi Nagar, Erode",
+    "areaId": "AREA-01",
+    "areaName": "Gandhi Nagar",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-010",
+    "consumerName": "Meena Moorthy",
+    "phone": "+91 9912802914",
+    "address": "34/10, Integration Layout, Gandhi Nagar, Erode",
+    "areaId": "AREA-01",
+    "areaName": "Gandhi Nagar",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-011",
+    "consumerName": "Santhosh Venkatesan",
+    "phone": "+91 9968046531",
+    "address": "39/1, Anna Salai, Perundurai Road, Erode",
+    "areaId": "AREA-02",
+    "areaName": "Perundurai Road",
+    "totalOrdersHistory": 6,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-012",
+    "consumerName": "Divya Balakrishnan",
+    "phone": "+91 9824299344",
+    "address": "119/2, Kamaraj Street, Perundurai Road, Erode",
+    "areaId": "AREA-02",
+    "areaName": "Perundurai Road",
+    "totalOrdersHistory": 9,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-013",
+    "consumerName": "Gokul Moorthy",
+    "phone": "+91 9830028961",
+    "address": "40/3, Bharathi Nagar, Perundurai Road, Erode",
+    "areaId": "AREA-02",
+    "areaName": "Perundurai Road",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-014",
+    "consumerName": "Nandhini Ganesan",
+    "phone": "+91 9871281449",
+    "address": "86/4, Nehru Street, Perundurai Road, Erode",
+    "areaId": "AREA-02",
+    "areaName": "Perundurai Road",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-015",
+    "consumerName": "Karthik Krishnan",
+    "phone": "+91 9857727300",
+    "address": "3/5, Gandhi Avenue, Perundurai Road, Erode",
+    "areaId": "AREA-02",
+    "areaName": "Perundurai Road",
+    "totalOrdersHistory": 4,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-016",
+    "consumerName": "Bhavana Shanmugam",
+    "phone": "+91 9817810089",
+    "address": "117/6, MGR Street, Perundurai Road, Erode",
+    "areaId": "AREA-02",
+    "areaName": "Perundurai Road",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-017",
+    "consumerName": "Dinesh Pandian",
+    "phone": "+91 9946130215",
+    "address": "102/7, Periyar Street, Perundurai Road, Erode",
+    "areaId": "AREA-02",
+    "areaName": "Perundurai Road",
+    "totalOrdersHistory": 4,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-018",
+    "consumerName": "Radha Elangovan",
+    "phone": "+91 9892303183",
+    "address": "88/8, VOB Street, Perundurai Road, Erode",
+    "areaId": "AREA-02",
+    "areaName": "Perundurai Road",
+    "totalOrdersHistory": 16,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-019",
+    "consumerName": "Rajesh Pillai",
+    "phone": "+91 9977311515",
+    "address": "114/9, Integration Layout, Perundurai Road, Erode",
+    "areaId": "AREA-02",
+    "areaName": "Perundurai Road",
+    "totalOrdersHistory": 10,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-020",
+    "consumerName": "Swathi Chettiar",
+    "phone": "+91 9877121688",
+    "address": "33/10, Bhavani Cut Rd, Perundurai Road, Erode",
+    "areaId": "AREA-02",
+    "areaName": "Perundurai Road",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-021",
+    "consumerName": "Balan Elangovan",
+    "phone": "+91 9804399843",
+    "address": "32/1, Kamaraj Street, Chithode, Erode",
+    "areaId": "AREA-03",
+    "areaName": "Chithode",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-022",
+    "consumerName": "Chitra Pillai",
+    "phone": "+91 9932647789",
+    "address": "67/2, Bharathi Nagar, Chithode, Erode",
+    "areaId": "AREA-03",
+    "areaName": "Chithode",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-023",
+    "consumerName": "Manoj Chettiar",
+    "phone": "+91 9961133990",
+    "address": "19/3, Nehru Street, Chithode, Erode",
+    "areaId": "AREA-03",
+    "areaName": "Chithode",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-024",
+    "consumerName": "Revathi Gounder",
+    "phone": "+91 9867298959",
+    "address": "38/4, Gandhi Avenue, Chithode, Erode",
+    "areaId": "AREA-03",
+    "areaName": "Chithode",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-025",
+    "consumerName": "Senthil Naidu",
+    "phone": "+91 9996511160",
+    "address": "15/5, MGR Street, Chithode, Erode",
+    "areaId": "AREA-03",
+    "areaName": "Chithode",
+    "totalOrdersHistory": 3,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-026",
+    "consumerName": "Vidya Kumar",
+    "phone": "+91 9967485255",
+    "address": "26/6, Periyar Street, Chithode, Erode",
+    "areaId": "AREA-03",
+    "areaName": "Chithode",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-027",
+    "consumerName": "Ashok Subramanian",
+    "phone": "+91 9832936108",
+    "address": "31/7, VOB Street, Chithode, Erode",
+    "areaId": "AREA-03",
+    "areaName": "Chithode",
+    "totalOrdersHistory": 4,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-028",
+    "consumerName": "Gayathri Rajan",
+    "phone": "+91 9872412254",
+    "address": "66/8, Integration Layout, Chithode, Erode",
+    "areaId": "AREA-03",
+    "areaName": "Chithode",
+    "totalOrdersHistory": 3,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-029",
+    "consumerName": "Prabhu Murugan",
+    "phone": "+91 9987591823",
+    "address": "111/9, Bhavani Cut Rd, Chithode, Erode",
+    "areaId": "AREA-03",
+    "areaName": "Chithode",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-030",
+    "consumerName": "Arun Natarajan",
+    "phone": "+91 9826782077",
+    "address": "120/10, Station Road, Chithode, Erode",
+    "areaId": "AREA-03",
+    "areaName": "Chithode",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-031",
+    "consumerName": "Priya Rajan",
+    "phone": "+91 9940898262",
+    "address": "102/1, Bharathi Nagar, Bhavani Road, Erode",
+    "areaId": "AREA-04",
+    "areaName": "Bhavani Road",
+    "totalOrdersHistory": 15,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-032",
+    "consumerName": "Kumar Murugan",
+    "phone": "+91 9984666420",
+    "address": "29/2, Nehru Street, Bhavani Road, Erode",
+    "areaId": "AREA-04",
+    "areaName": "Bhavani Road",
+    "totalOrdersHistory": 9,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-033",
+    "consumerName": "Suresh Natarajan",
+    "phone": "+91 9966113866",
+    "address": "18/3, Gandhi Avenue, Bhavani Road, Erode",
+    "areaId": "AREA-04",
+    "areaName": "Bhavani Road",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-034",
+    "consumerName": "Lakshmi Selvam",
+    "phone": "+91 9901455204",
+    "address": "56/4, MGR Street, Bhavani Road, Erode",
+    "areaId": "AREA-04",
+    "areaName": "Bhavani Road",
+    "totalOrdersHistory": 16,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-035",
+    "consumerName": "Vijay Sundaram",
+    "phone": "+91 9964996516",
+    "address": "97/5, Periyar Street, Bhavani Road, Erode",
+    "areaId": "AREA-04",
+    "areaName": "Bhavani Road",
+    "totalOrdersHistory": 6,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-036",
+    "consumerName": "Kavitha Chandran",
+    "phone": "+91 9880550323",
+    "address": "41/6, VOB Street, Bhavani Road, Erode",
+    "areaId": "AREA-04",
+    "areaName": "Bhavani Road",
+    "totalOrdersHistory": 10,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-037",
+    "consumerName": "Deepak Venkatesan",
+    "phone": "+91 9879669169",
+    "address": "50/7, Integration Layout, Bhavani Road, Erode",
+    "areaId": "AREA-04",
+    "areaName": "Bhavani Road",
+    "totalOrdersHistory": 11,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-038",
+    "consumerName": "Anitha Balakrishnan",
+    "phone": "+91 9810395408",
+    "address": "117/8, Bhavani Cut Rd, Bhavani Road, Erode",
+    "areaId": "AREA-04",
+    "areaName": "Bhavani Road",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-039",
+    "consumerName": "Ramesh Moorthy",
+    "phone": "+91 9818819262",
+    "address": "13/9, Station Road, Bhavani Road, Erode",
+    "areaId": "AREA-04",
+    "areaName": "Bhavani Road",
+    "totalOrdersHistory": 16,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-040",
+    "consumerName": "Meena Ganesan",
+    "phone": "+91 9896749921",
+    "address": "67/10, Temple View Rd, Bhavani Road, Erode",
+    "areaId": "AREA-04",
+    "areaName": "Bhavani Road",
+    "totalOrdersHistory": 10,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-041",
+    "consumerName": "Santhosh Balakrishnan",
+    "phone": "+91 9904998937",
+    "address": "11/1, Nehru Street, Veerappanchatram, Erode",
+    "areaId": "AREA-05",
+    "areaName": "Veerappanchatram",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-042",
+    "consumerName": "Divya Moorthy",
+    "phone": "+91 9873024657",
+    "address": "66/2, Gandhi Avenue, Veerappanchatram, Erode",
+    "areaId": "AREA-05",
+    "areaName": "Veerappanchatram",
+    "totalOrdersHistory": 7,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-043",
+    "consumerName": "Gokul Ganesan",
+    "phone": "+91 9992370765",
+    "address": "4/3, MGR Street, Veerappanchatram, Erode",
+    "areaId": "AREA-05",
+    "areaName": "Veerappanchatram",
+    "totalOrdersHistory": 6,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-044",
+    "consumerName": "Nandhini Krishnan",
+    "phone": "+91 9933374487",
+    "address": "39/4, Periyar Street, Veerappanchatram, Erode",
+    "areaId": "AREA-05",
+    "areaName": "Veerappanchatram",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-045",
+    "consumerName": "Karthik Shanmugam",
+    "phone": "+91 9809632621",
+    "address": "101/5, VOB Street, Veerappanchatram, Erode",
+    "areaId": "AREA-05",
+    "areaName": "Veerappanchatram",
+    "totalOrdersHistory": 9,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-046",
+    "consumerName": "Bhavana Pandian",
+    "phone": "+91 9985584430",
+    "address": "89/6, Integration Layout, Veerappanchatram, Erode",
+    "areaId": "AREA-05",
+    "areaName": "Veerappanchatram",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-047",
+    "consumerName": "Dinesh Elangovan",
+    "phone": "+91 9864053458",
+    "address": "69/7, Bhavani Cut Rd, Veerappanchatram, Erode",
+    "areaId": "AREA-05",
+    "areaName": "Veerappanchatram",
+    "totalOrdersHistory": 10,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-048",
+    "consumerName": "Radha Pillai",
+    "phone": "+91 9890398562",
+    "address": "119/8, Station Road, Veerappanchatram, Erode",
+    "areaId": "AREA-05",
+    "areaName": "Veerappanchatram",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-049",
+    "consumerName": "Rajesh Chettiar",
+    "phone": "+91 9926657380",
+    "address": "98/9, Temple View Rd, Veerappanchatram, Erode",
+    "areaId": "AREA-05",
+    "areaName": "Veerappanchatram",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-050",
+    "consumerName": "Swathi Gounder",
+    "phone": "+91 9905864651",
+    "address": "60/10, Market Street, Veerappanchatram, Erode",
+    "areaId": "AREA-05",
+    "areaName": "Veerappanchatram",
+    "totalOrdersHistory": 15,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-051",
+    "consumerName": "Balan Pillai",
+    "phone": "+91 9946571405",
+    "address": "56/1, Gandhi Avenue, BPL Nagar, Erode",
+    "areaId": "AREA-06",
+    "areaName": "BPL Nagar",
+    "totalOrdersHistory": 4,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-052",
+    "consumerName": "Chitra Chettiar",
+    "phone": "+91 9809976143",
+    "address": "69/2, MGR Street, BPL Nagar, Erode",
+    "areaId": "AREA-06",
+    "areaName": "BPL Nagar",
+    "totalOrdersHistory": 7,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-053",
+    "consumerName": "Manoj Gounder",
+    "phone": "+91 9996762638",
+    "address": "87/3, Periyar Street, BPL Nagar, Erode",
+    "areaId": "AREA-06",
+    "areaName": "BPL Nagar",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-054",
+    "consumerName": "Revathi Naidu",
+    "phone": "+91 9992083697",
+    "address": "47/4, VOB Street, BPL Nagar, Erode",
+    "areaId": "AREA-06",
+    "areaName": "BPL Nagar",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-055",
+    "consumerName": "Senthil Kumar",
+    "phone": "+91 9941127828",
+    "address": "36/5, Integration Layout, BPL Nagar, Erode",
+    "areaId": "AREA-06",
+    "areaName": "BPL Nagar",
+    "totalOrdersHistory": 4,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-056",
+    "consumerName": "Vidya Subramanian",
+    "phone": "+91 9964250345",
+    "address": "106/6, Bhavani Cut Rd, BPL Nagar, Erode",
+    "areaId": "AREA-06",
+    "areaName": "BPL Nagar",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-057",
+    "consumerName": "Ashok Rajan",
+    "phone": "+91 9812929141",
+    "address": "77/7, Station Road, BPL Nagar, Erode",
+    "areaId": "AREA-06",
+    "areaName": "BPL Nagar",
+    "totalOrdersHistory": 13,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-058",
+    "consumerName": "Gayathri Murugan",
+    "phone": "+91 9895042725",
+    "address": "54/8, Temple View Rd, BPL Nagar, Erode",
+    "areaId": "AREA-06",
+    "areaName": "BPL Nagar",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-059",
+    "consumerName": "Prabhu Natarajan",
+    "phone": "+91 9942573536",
+    "address": "106/9, Market Street, BPL Nagar, Erode",
+    "areaId": "AREA-06",
+    "areaName": "BPL Nagar",
+    "totalOrdersHistory": 9,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-060",
+    "consumerName": "Arun Selvam",
+    "phone": "+91 9860489962",
+    "address": "72/10, Main Road, BPL Nagar, Erode",
+    "areaId": "AREA-06",
+    "areaName": "BPL Nagar",
+    "totalOrdersHistory": 6,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-061",
+    "consumerName": "Priya Murugan",
+    "phone": "+91 9978452307",
+    "address": "59/1, MGR Street, Sampath Nagar, Erode",
+    "areaId": "AREA-07",
+    "areaName": "Sampath Nagar",
+    "totalOrdersHistory": 3,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-062",
+    "consumerName": "Kumar Natarajan",
+    "phone": "+91 9814169127",
+    "address": "88/2, Periyar Street, Sampath Nagar, Erode",
+    "areaId": "AREA-07",
+    "areaName": "Sampath Nagar",
+    "totalOrdersHistory": 9,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-063",
+    "consumerName": "Suresh Selvam",
+    "phone": "+91 9953815326",
+    "address": "82/3, VOB Street, Sampath Nagar, Erode",
+    "areaId": "AREA-07",
+    "areaName": "Sampath Nagar",
+    "totalOrdersHistory": 10,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-064",
+    "consumerName": "Lakshmi Sundaram",
+    "phone": "+91 9814750168",
+    "address": "99/4, Integration Layout, Sampath Nagar, Erode",
+    "areaId": "AREA-07",
+    "areaName": "Sampath Nagar",
+    "totalOrdersHistory": 3,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-065",
+    "consumerName": "Vijay Chandran",
+    "phone": "+91 9957807242",
+    "address": "5/5, Bhavani Cut Rd, Sampath Nagar, Erode",
+    "areaId": "AREA-07",
+    "areaName": "Sampath Nagar",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-066",
+    "consumerName": "Kavitha Venkatesan",
+    "phone": "+91 9949328386",
+    "address": "40/6, Station Road, Sampath Nagar, Erode",
+    "areaId": "AREA-07",
+    "areaName": "Sampath Nagar",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-067",
+    "consumerName": "Deepak Balakrishnan",
+    "phone": "+91 9852307219",
+    "address": "44/7, Temple View Rd, Sampath Nagar, Erode",
+    "areaId": "AREA-07",
+    "areaName": "Sampath Nagar",
+    "totalOrdersHistory": 4,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-068",
+    "consumerName": "Anitha Moorthy",
+    "phone": "+91 9960268923",
+    "address": "33/8, Market Street, Sampath Nagar, Erode",
+    "areaId": "AREA-07",
+    "areaName": "Sampath Nagar",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-069",
+    "consumerName": "Ramesh Ganesan",
+    "phone": "+91 9957723445",
+    "address": "47/9, Main Road, Sampath Nagar, Erode",
+    "areaId": "AREA-07",
+    "areaName": "Sampath Nagar",
+    "totalOrdersHistory": 15,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-070",
+    "consumerName": "Meena Krishnan",
+    "phone": "+91 9822206709",
+    "address": "10/10, Cross Street, Sampath Nagar, Erode",
+    "areaId": "AREA-07",
+    "areaName": "Sampath Nagar",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-071",
+    "consumerName": "Santhosh Moorthy",
+    "phone": "+91 9953772707",
+    "address": "58/1, Periyar Street, Soolai, Erode",
+    "areaId": "AREA-08",
+    "areaName": "Soolai",
+    "totalOrdersHistory": 3,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-072",
+    "consumerName": "Divya Ganesan",
+    "phone": "+91 9898619212",
+    "address": "72/2, VOB Street, Soolai, Erode",
+    "areaId": "AREA-08",
+    "areaName": "Soolai",
+    "totalOrdersHistory": 3,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-073",
+    "consumerName": "Gokul Krishnan",
+    "phone": "+91 9941608539",
+    "address": "2/3, Integration Layout, Soolai, Erode",
+    "areaId": "AREA-08",
+    "areaName": "Soolai",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-074",
+    "consumerName": "Nandhini Shanmugam",
+    "phone": "+91 9861003691",
+    "address": "13/4, Bhavani Cut Rd, Soolai, Erode",
+    "areaId": "AREA-08",
+    "areaName": "Soolai",
+    "totalOrdersHistory": 6,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-075",
+    "consumerName": "Karthik Pandian",
+    "phone": "+91 9863919165",
+    "address": "21/5, Station Road, Soolai, Erode",
+    "areaId": "AREA-08",
+    "areaName": "Soolai",
+    "totalOrdersHistory": 8,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-076",
+    "consumerName": "Bhavana Elangovan",
+    "phone": "+91 9847911355",
+    "address": "90/6, Temple View Rd, Soolai, Erode",
+    "areaId": "AREA-08",
+    "areaName": "Soolai",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-077",
+    "consumerName": "Dinesh Pillai",
+    "phone": "+91 9899162152",
+    "address": "59/7, Market Street, Soolai, Erode",
+    "areaId": "AREA-08",
+    "areaName": "Soolai",
+    "totalOrdersHistory": 8,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-078",
+    "consumerName": "Radha Chettiar",
+    "phone": "+91 9836637586",
+    "address": "32/8, Main Road, Soolai, Erode",
+    "areaId": "AREA-08",
+    "areaName": "Soolai",
+    "totalOrdersHistory": 7,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-079",
+    "consumerName": "Rajesh Gounder",
+    "phone": "+91 9859127190",
+    "address": "118/9, Cross Street, Soolai, Erode",
+    "areaId": "AREA-08",
+    "areaName": "Soolai",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-080",
+    "consumerName": "Swathi Naidu",
+    "phone": "+91 9906588316",
+    "address": "51/10, Anna Salai, Soolai, Erode",
+    "areaId": "AREA-08",
+    "areaName": "Soolai",
+    "totalOrdersHistory": 16,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-081",
+    "consumerName": "Balan Chettiar",
+    "phone": "+91 9970966605",
+    "address": "108/1, VOB Street, Surampatti, Erode",
+    "areaId": "AREA-09",
+    "areaName": "Surampatti",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-082",
+    "consumerName": "Chitra Gounder",
+    "phone": "+91 9970799073",
+    "address": "79/2, Integration Layout, Surampatti, Erode",
+    "areaId": "AREA-09",
+    "areaName": "Surampatti",
+    "totalOrdersHistory": 9,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-083",
+    "consumerName": "Manoj Naidu",
+    "phone": "+91 9874076743",
+    "address": "116/3, Bhavani Cut Rd, Surampatti, Erode",
+    "areaId": "AREA-09",
+    "areaName": "Surampatti",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-084",
+    "consumerName": "Revathi Kumar",
+    "phone": "+91 9953155983",
+    "address": "93/4, Station Road, Surampatti, Erode",
+    "areaId": "AREA-09",
+    "areaName": "Surampatti",
+    "totalOrdersHistory": 8,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-085",
+    "consumerName": "Senthil Subramanian",
+    "phone": "+91 9935401195",
+    "address": "47/5, Temple View Rd, Surampatti, Erode",
+    "areaId": "AREA-09",
+    "areaName": "Surampatti",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-086",
+    "consumerName": "Vidya Rajan",
+    "phone": "+91 9907661683",
+    "address": "100/6, Market Street, Surampatti, Erode",
+    "areaId": "AREA-09",
+    "areaName": "Surampatti",
+    "totalOrdersHistory": 8,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-087",
+    "consumerName": "Ashok Murugan",
+    "phone": "+91 9984568430",
+    "address": "57/7, Main Road, Surampatti, Erode",
+    "areaId": "AREA-09",
+    "areaName": "Surampatti",
+    "totalOrdersHistory": 7,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-088",
+    "consumerName": "Gayathri Natarajan",
+    "phone": "+91 9869409634",
+    "address": "31/8, Cross Street, Surampatti, Erode",
+    "areaId": "AREA-09",
+    "areaName": "Surampatti",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-089",
+    "consumerName": "Prabhu Selvam",
+    "phone": "+91 9913129478",
+    "address": "43/9, Anna Salai, Surampatti, Erode",
+    "areaId": "AREA-09",
+    "areaName": "Surampatti",
+    "totalOrdersHistory": 16,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-090",
+    "consumerName": "Arun Sundaram",
+    "phone": "+91 9964091893",
+    "address": "81/10, Kamaraj Street, Surampatti, Erode",
+    "areaId": "AREA-09",
+    "areaName": "Surampatti",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-091",
+    "consumerName": "Priya Natarajan",
+    "phone": "+91 9990576852",
+    "address": "117/1, Integration Layout, Solar, Erode",
+    "areaId": "AREA-10",
+    "areaName": "Solar",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-092",
+    "consumerName": "Kumar Selvam",
+    "phone": "+91 9925930622",
+    "address": "96/2, Bhavani Cut Rd, Solar, Erode",
+    "areaId": "AREA-10",
+    "areaName": "Solar",
+    "totalOrdersHistory": 9,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-093",
+    "consumerName": "Suresh Sundaram",
+    "phone": "+91 9867958715",
+    "address": "25/3, Station Road, Solar, Erode",
+    "areaId": "AREA-10",
+    "areaName": "Solar",
+    "totalOrdersHistory": 6,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-094",
+    "consumerName": "Lakshmi Chandran",
+    "phone": "+91 9913785230",
+    "address": "84/4, Temple View Rd, Solar, Erode",
+    "areaId": "AREA-10",
+    "areaName": "Solar",
+    "totalOrdersHistory": 16,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-095",
+    "consumerName": "Vijay Venkatesan",
+    "phone": "+91 9883148558",
+    "address": "20/5, Market Street, Solar, Erode",
+    "areaId": "AREA-10",
+    "areaName": "Solar",
+    "totalOrdersHistory": 8,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-096",
+    "consumerName": "Kavitha Balakrishnan",
+    "phone": "+91 9852041791",
+    "address": "66/6, Main Road, Solar, Erode",
+    "areaId": "AREA-10",
+    "areaName": "Solar",
+    "totalOrdersHistory": 4,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-097",
+    "consumerName": "Deepak Moorthy",
+    "phone": "+91 9851977537",
+    "address": "45/7, Cross Street, Solar, Erode",
+    "areaId": "AREA-10",
+    "areaName": "Solar",
+    "totalOrdersHistory": 5,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-098",
+    "consumerName": "Anitha Ganesan",
+    "phone": "+91 9874406630",
+    "address": "99/8, Anna Salai, Solar, Erode",
+    "areaId": "AREA-10",
+    "areaName": "Solar",
+    "totalOrdersHistory": 4,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-099",
+    "consumerName": "Ramesh Krishnan",
+    "phone": "+91 9904862509",
+    "address": "113/9, Kamaraj Street, Solar, Erode",
+    "areaId": "AREA-10",
+    "areaName": "Solar",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-100",
+    "consumerName": "Meena Shanmugam",
+    "phone": "+91 9949145324",
+    "address": "48/10, Bharathi Nagar, Solar, Erode",
+    "areaId": "AREA-10",
+    "areaName": "Solar",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-101",
+    "consumerName": "Santhosh Ganesan",
+    "phone": "+91 9902867537",
+    "address": "16/1, Bhavani Cut Rd, Kaspapettai, Erode",
+    "areaId": "AREA-11",
+    "areaName": "Kaspapettai",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-102",
+    "consumerName": "Divya Krishnan",
+    "phone": "+91 9972956856",
+    "address": "101/2, Station Road, Kaspapettai, Erode",
+    "areaId": "AREA-11",
+    "areaName": "Kaspapettai",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-103",
+    "consumerName": "Gokul Shanmugam",
+    "phone": "+91 9902748288",
+    "address": "37/3, Temple View Rd, Kaspapettai, Erode",
+    "areaId": "AREA-11",
+    "areaName": "Kaspapettai",
+    "totalOrdersHistory": 8,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-104",
+    "consumerName": "Nandhini Pandian",
+    "phone": "+91 9940540028",
+    "address": "51/4, Market Street, Kaspapettai, Erode",
+    "areaId": "AREA-11",
+    "areaName": "Kaspapettai",
+    "totalOrdersHistory": 4,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-105",
+    "consumerName": "Karthik Elangovan",
+    "phone": "+91 9900355290",
+    "address": "26/5, Main Road, Kaspapettai, Erode",
+    "areaId": "AREA-11",
+    "areaName": "Kaspapettai",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-106",
+    "consumerName": "Bhavana Pillai",
+    "phone": "+91 9842271184",
+    "address": "113/6, Cross Street, Kaspapettai, Erode",
+    "areaId": "AREA-11",
+    "areaName": "Kaspapettai",
+    "totalOrdersHistory": 15,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-107",
+    "consumerName": "Dinesh Chettiar",
+    "phone": "+91 9914604694",
+    "address": "95/7, Anna Salai, Kaspapettai, Erode",
+    "areaId": "AREA-11",
+    "areaName": "Kaspapettai",
+    "totalOrdersHistory": 7,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-108",
+    "consumerName": "Radha Gounder",
+    "phone": "+91 9898249404",
+    "address": "78/8, Kamaraj Street, Kaspapettai, Erode",
+    "areaId": "AREA-11",
+    "areaName": "Kaspapettai",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-109",
+    "consumerName": "Rajesh Naidu",
+    "phone": "+91 9910785860",
+    "address": "40/9, Bharathi Nagar, Kaspapettai, Erode",
+    "areaId": "AREA-11",
+    "areaName": "Kaspapettai",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-110",
+    "consumerName": "Swathi Kumar",
+    "phone": "+91 9802512086",
+    "address": "95/10, Nehru Street, Kaspapettai, Erode",
+    "areaId": "AREA-11",
+    "areaName": "Kaspapettai",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-111",
+    "consumerName": "Balan Gounder",
+    "phone": "+91 9809395142",
+    "address": "32/1, Station Road, Moolapalayam, Erode",
+    "areaId": "AREA-12",
+    "areaName": "Moolapalayam",
+    "totalOrdersHistory": 8,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-112",
+    "consumerName": "Chitra Naidu",
+    "phone": "+91 9825841382",
+    "address": "52/2, Temple View Rd, Moolapalayam, Erode",
+    "areaId": "AREA-12",
+    "areaName": "Moolapalayam",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-113",
+    "consumerName": "Manoj Kumar",
+    "phone": "+91 9854950194",
+    "address": "24/3, Market Street, Moolapalayam, Erode",
+    "areaId": "AREA-12",
+    "areaName": "Moolapalayam",
+    "totalOrdersHistory": 10,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-114",
+    "consumerName": "Revathi Subramanian",
+    "phone": "+91 9946081032",
+    "address": "80/4, Main Road, Moolapalayam, Erode",
+    "areaId": "AREA-12",
+    "areaName": "Moolapalayam",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-115",
+    "consumerName": "Senthil Rajan",
+    "phone": "+91 9827486499",
+    "address": "78/5, Cross Street, Moolapalayam, Erode",
+    "areaId": "AREA-12",
+    "areaName": "Moolapalayam",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-116",
+    "consumerName": "Vidya Murugan",
+    "phone": "+91 9884855258",
+    "address": "106/6, Anna Salai, Moolapalayam, Erode",
+    "areaId": "AREA-12",
+    "areaName": "Moolapalayam",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-117",
+    "consumerName": "Ashok Natarajan",
+    "phone": "+91 9887153303",
+    "address": "105/7, Kamaraj Street, Moolapalayam, Erode",
+    "areaId": "AREA-12",
+    "areaName": "Moolapalayam",
+    "totalOrdersHistory": 12,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-118",
+    "consumerName": "Gayathri Selvam",
+    "phone": "+91 9834774815",
+    "address": "83/8, Bharathi Nagar, Moolapalayam, Erode",
+    "areaId": "AREA-12",
+    "areaName": "Moolapalayam",
+    "totalOrdersHistory": 7,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-119",
+    "consumerName": "Prabhu Sundaram",
+    "phone": "+91 9943991113",
+    "address": "92/9, Nehru Street, Moolapalayam, Erode",
+    "areaId": "AREA-12",
+    "areaName": "Moolapalayam",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-120",
+    "consumerName": "Arun Chandran",
+    "phone": "+91 9859974839",
+    "address": "117/10, Gandhi Avenue, Moolapalayam, Erode",
+    "areaId": "AREA-12",
+    "areaName": "Moolapalayam",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-121",
+    "consumerName": "Priya Selvam",
+    "phone": "+91 9861233649",
+    "address": "27/1, Temple View Rd, Kasipalayam, Erode",
+    "areaId": "AREA-13",
+    "areaName": "Kasipalayam",
+    "totalOrdersHistory": 16,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-122",
+    "consumerName": "Kumar Sundaram",
+    "phone": "+91 9824556640",
+    "address": "27/2, Market Street, Kasipalayam, Erode",
+    "areaId": "AREA-13",
+    "areaName": "Kasipalayam",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-123",
+    "consumerName": "Suresh Chandran",
+    "phone": "+91 9954726548",
+    "address": "57/3, Main Road, Kasipalayam, Erode",
+    "areaId": "AREA-13",
+    "areaName": "Kasipalayam",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-124",
+    "consumerName": "Lakshmi Venkatesan",
+    "phone": "+91 9892606129",
+    "address": "76/4, Cross Street, Kasipalayam, Erode",
+    "areaId": "AREA-13",
+    "areaName": "Kasipalayam",
+    "totalOrdersHistory": 3,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-125",
+    "consumerName": "Vijay Balakrishnan",
+    "phone": "+91 9881609155",
+    "address": "92/5, Anna Salai, Kasipalayam, Erode",
+    "areaId": "AREA-13",
+    "areaName": "Kasipalayam",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-126",
+    "consumerName": "Kavitha Moorthy",
+    "phone": "+91 9900385037",
+    "address": "10/6, Kamaraj Street, Kasipalayam, Erode",
+    "areaId": "AREA-13",
+    "areaName": "Kasipalayam",
+    "totalOrdersHistory": 3,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-127",
+    "consumerName": "Deepak Ganesan",
+    "phone": "+91 9828266707",
+    "address": "85/7, Bharathi Nagar, Kasipalayam, Erode",
+    "areaId": "AREA-13",
+    "areaName": "Kasipalayam",
+    "totalOrdersHistory": 11,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-128",
+    "consumerName": "Anitha Krishnan",
+    "phone": "+91 9907117575",
+    "address": "4/8, Nehru Street, Kasipalayam, Erode",
+    "areaId": "AREA-13",
+    "areaName": "Kasipalayam",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-129",
+    "consumerName": "Ramesh Shanmugam",
+    "phone": "+91 9928615324",
+    "address": "78/9, Gandhi Avenue, Kasipalayam, Erode",
+    "areaId": "AREA-13",
+    "areaName": "Kasipalayam",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-130",
+    "consumerName": "Meena Pandian",
+    "phone": "+91 9897146659",
+    "address": "24/10, MGR Street, Kasipalayam, Erode",
+    "areaId": "AREA-13",
+    "areaName": "Kasipalayam",
+    "totalOrdersHistory": 7,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-131",
+    "consumerName": "Santhosh Krishnan",
+    "phone": "+91 9897567443",
+    "address": "106/1, Market Street, Thindal, Erode",
+    "areaId": "AREA-14",
+    "areaName": "Thindal",
+    "totalOrdersHistory": 6,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-132",
+    "consumerName": "Divya Shanmugam",
+    "phone": "+91 9930149715",
+    "address": "2/2, Main Road, Thindal, Erode",
+    "areaId": "AREA-14",
+    "areaName": "Thindal",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-133",
+    "consumerName": "Gokul Pandian",
+    "phone": "+91 9858804808",
+    "address": "37/3, Cross Street, Thindal, Erode",
+    "areaId": "AREA-14",
+    "areaName": "Thindal",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-134",
+    "consumerName": "Nandhini Elangovan",
+    "phone": "+91 9981581295",
+    "address": "63/4, Anna Salai, Thindal, Erode",
+    "areaId": "AREA-14",
+    "areaName": "Thindal",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-135",
+    "consumerName": "Karthik Pillai",
+    "phone": "+91 9825762355",
+    "address": "52/5, Kamaraj Street, Thindal, Erode",
+    "areaId": "AREA-14",
+    "areaName": "Thindal",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-136",
+    "consumerName": "Bhavana Chettiar",
+    "phone": "+91 9867063749",
+    "address": "117/6, Bharathi Nagar, Thindal, Erode",
+    "areaId": "AREA-14",
+    "areaName": "Thindal",
+    "totalOrdersHistory": 8,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-137",
+    "consumerName": "Dinesh Gounder",
+    "phone": "+91 9959795933",
+    "address": "40/7, Nehru Street, Thindal, Erode",
+    "areaId": "AREA-14",
+    "areaName": "Thindal",
+    "totalOrdersHistory": 7,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-138",
+    "consumerName": "Radha Naidu",
+    "phone": "+91 9879408917",
+    "address": "110/8, Gandhi Avenue, Thindal, Erode",
+    "areaId": "AREA-14",
+    "areaName": "Thindal",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-139",
+    "consumerName": "Rajesh Kumar",
+    "phone": "+91 9979366235",
+    "address": "41/9, MGR Street, Thindal, Erode",
+    "areaId": "AREA-14",
+    "areaName": "Thindal",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-140",
+    "consumerName": "Swathi Subramanian",
+    "phone": "+91 9811957783",
+    "address": "67/10, Periyar Street, Thindal, Erode",
+    "areaId": "AREA-14",
+    "areaName": "Thindal",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-141",
+    "consumerName": "Balan Naidu",
+    "phone": "+91 9942937466",
+    "address": "85/1, Main Road, Sengodampalayam, Erode",
+    "areaId": "AREA-15",
+    "areaName": "Sengodampalayam",
+    "totalOrdersHistory": 10,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-142",
+    "consumerName": "Chitra Kumar",
+    "phone": "+91 9834750664",
+    "address": "38/2, Cross Street, Sengodampalayam, Erode",
+    "areaId": "AREA-15",
+    "areaName": "Sengodampalayam",
+    "totalOrdersHistory": 3,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-143",
+    "consumerName": "Manoj Subramanian",
+    "phone": "+91 9913328517",
+    "address": "56/3, Anna Salai, Sengodampalayam, Erode",
+    "areaId": "AREA-15",
+    "areaName": "Sengodampalayam",
+    "totalOrdersHistory": 7,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-144",
+    "consumerName": "Revathi Rajan",
+    "phone": "+91 9853576709",
+    "address": "114/4, Kamaraj Street, Sengodampalayam, Erode",
+    "areaId": "AREA-15",
+    "areaName": "Sengodampalayam",
+    "totalOrdersHistory": 9,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-145",
+    "consumerName": "Senthil Murugan",
+    "phone": "+91 9955009802",
+    "address": "31/5, Bharathi Nagar, Sengodampalayam, Erode",
+    "areaId": "AREA-15",
+    "areaName": "Sengodampalayam",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-146",
+    "consumerName": "Vidya Natarajan",
+    "phone": "+91 9954798581",
+    "address": "105/6, Nehru Street, Sengodampalayam, Erode",
+    "areaId": "AREA-15",
+    "areaName": "Sengodampalayam",
+    "totalOrdersHistory": 10,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-147",
+    "consumerName": "Ashok Selvam",
+    "phone": "+91 9894458043",
+    "address": "81/7, Gandhi Avenue, Sengodampalayam, Erode",
+    "areaId": "AREA-15",
+    "areaName": "Sengodampalayam",
+    "totalOrdersHistory": 12,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-148",
+    "consumerName": "Gayathri Sundaram",
+    "phone": "+91 9846834425",
+    "address": "56/8, MGR Street, Sengodampalayam, Erode",
+    "areaId": "AREA-15",
+    "areaName": "Sengodampalayam",
+    "totalOrdersHistory": 16,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-149",
+    "consumerName": "Prabhu Chandran",
+    "phone": "+91 9925118114",
+    "address": "91/9, Periyar Street, Sengodampalayam, Erode",
+    "areaId": "AREA-15",
+    "areaName": "Sengodampalayam",
+    "totalOrdersHistory": 15,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-150",
+    "consumerName": "Arun Venkatesan",
+    "phone": "+91 9952892890",
+    "address": "22/10, VOB Street, Sengodampalayam, Erode",
+    "areaId": "AREA-15",
+    "areaName": "Sengodampalayam",
+    "totalOrdersHistory": 16,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-151",
+    "consumerName": "Priya Sundaram",
+    "phone": "+91 9884021011",
+    "address": "111/1, Cross Street, Perundurai Town, Erode",
+    "areaId": "AREA-16",
+    "areaName": "Perundurai Town",
+    "totalOrdersHistory": 7,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-152",
+    "consumerName": "Kumar Chandran",
+    "phone": "+91 9967524946",
+    "address": "41/2, Anna Salai, Perundurai Town, Erode",
+    "areaId": "AREA-16",
+    "areaName": "Perundurai Town",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-153",
+    "consumerName": "Suresh Venkatesan",
+    "phone": "+91 9883645285",
+    "address": "2/3, Kamaraj Street, Perundurai Town, Erode",
+    "areaId": "AREA-16",
+    "areaName": "Perundurai Town",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-154",
+    "consumerName": "Lakshmi Balakrishnan",
+    "phone": "+91 9838945465",
+    "address": "82/4, Bharathi Nagar, Perundurai Town, Erode",
+    "areaId": "AREA-16",
+    "areaName": "Perundurai Town",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-155",
+    "consumerName": "Vijay Moorthy",
+    "phone": "+91 9881776896",
+    "address": "7/5, Nehru Street, Perundurai Town, Erode",
+    "areaId": "AREA-16",
+    "areaName": "Perundurai Town",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-156",
+    "consumerName": "Kavitha Ganesan",
+    "phone": "+91 9896555828",
+    "address": "77/6, Gandhi Avenue, Perundurai Town, Erode",
+    "areaId": "AREA-16",
+    "areaName": "Perundurai Town",
+    "totalOrdersHistory": 10,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-157",
+    "consumerName": "Deepak Krishnan",
+    "phone": "+91 9894572464",
+    "address": "51/7, MGR Street, Perundurai Town, Erode",
+    "areaId": "AREA-16",
+    "areaName": "Perundurai Town",
+    "totalOrdersHistory": 14,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-158",
+    "consumerName": "Anitha Shanmugam",
+    "phone": "+91 9895343467",
+    "address": "39/8, Periyar Street, Perundurai Town, Erode",
+    "areaId": "AREA-16",
+    "areaName": "Perundurai Town",
+    "totalOrdersHistory": 10,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-159",
+    "consumerName": "Ramesh Pandian",
+    "phone": "+91 9824643927",
+    "address": "13/9, VOB Street, Perundurai Town, Erode",
+    "areaId": "AREA-16",
+    "areaName": "Perundurai Town",
+    "totalOrdersHistory": 16,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-160",
+    "consumerName": "Meena Elangovan",
+    "phone": "+91 9871742373",
+    "address": "23/10, Integration Layout, Perundurai Town, Erode",
+    "areaId": "AREA-16",
+    "areaName": "Perundurai Town",
+    "totalOrdersHistory": 11,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-161",
+    "consumerName": "Santhosh Shanmugam",
+    "phone": "+91 9962451695",
+    "address": "80/1, Anna Salai, Nasiyanur, Erode",
+    "areaId": "AREA-17",
+    "areaName": "Nasiyanur",
+    "totalOrdersHistory": 3,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-162",
+    "consumerName": "Divya Pandian",
+    "phone": "+91 9853931371",
+    "address": "46/2, Kamaraj Street, Nasiyanur, Erode",
+    "areaId": "AREA-17",
+    "areaName": "Nasiyanur",
+    "totalOrdersHistory": 6,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-163",
+    "consumerName": "Gokul Elangovan",
+    "phone": "+91 9956112303",
+    "address": "45/3, Bharathi Nagar, Nasiyanur, Erode",
+    "areaId": "AREA-17",
+    "areaName": "Nasiyanur",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-164",
+    "consumerName": "Nandhini Pillai",
+    "phone": "+91 9949160897",
+    "address": "55/4, Nehru Street, Nasiyanur, Erode",
+    "areaId": "AREA-17",
+    "areaName": "Nasiyanur",
+    "totalOrdersHistory": 9,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-165",
+    "consumerName": "Karthik Chettiar",
+    "phone": "+91 9830283402",
+    "address": "115/5, Gandhi Avenue, Nasiyanur, Erode",
+    "areaId": "AREA-17",
+    "areaName": "Nasiyanur",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-166",
+    "consumerName": "Bhavana Gounder",
+    "phone": "+91 9801949531",
+    "address": "66/6, MGR Street, Nasiyanur, Erode",
+    "areaId": "AREA-17",
+    "areaName": "Nasiyanur",
+    "totalOrdersHistory": 10,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-167",
+    "consumerName": "Dinesh Naidu",
+    "phone": "+91 9855608302",
+    "address": "104/7, Periyar Street, Nasiyanur, Erode",
+    "areaId": "AREA-17",
+    "areaName": "Nasiyanur",
+    "totalOrdersHistory": 4,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-168",
+    "consumerName": "Radha Kumar",
+    "phone": "+91 9879949028",
+    "address": "51/8, VOB Street, Nasiyanur, Erode",
+    "areaId": "AREA-17",
+    "areaName": "Nasiyanur",
+    "totalOrdersHistory": 7,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-169",
+    "consumerName": "Rajesh Subramanian",
+    "phone": "+91 9975813821",
+    "address": "104/9, Integration Layout, Nasiyanur, Erode",
+    "areaId": "AREA-17",
+    "areaName": "Nasiyanur",
+    "totalOrdersHistory": 6,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-170",
+    "consumerName": "Swathi Rajan",
+    "phone": "+91 9851811620",
+    "address": "108/10, Bhavani Cut Rd, Nasiyanur, Erode",
+    "areaId": "AREA-17",
+    "areaName": "Nasiyanur",
+    "totalOrdersHistory": 9,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-171",
+    "consumerName": "Balan Kumar",
+    "phone": "+91 9911447994",
+    "address": "4/1, Kamaraj Street, Rangampalayam, Erode",
+    "areaId": "AREA-18",
+    "areaName": "Rangampalayam",
+    "totalOrdersHistory": 4,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-172",
+    "consumerName": "Chitra Subramanian",
+    "phone": "+91 9831094097",
+    "address": "4/2, Bharathi Nagar, Rangampalayam, Erode",
+    "areaId": "AREA-18",
+    "areaName": "Rangampalayam",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-173",
+    "consumerName": "Manoj Rajan",
+    "phone": "+91 9991853545",
+    "address": "71/3, Nehru Street, Rangampalayam, Erode",
+    "areaId": "AREA-18",
+    "areaName": "Rangampalayam",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-174",
+    "consumerName": "Revathi Murugan",
+    "phone": "+91 9825811829",
+    "address": "62/4, Gandhi Avenue, Rangampalayam, Erode",
+    "areaId": "AREA-18",
+    "areaName": "Rangampalayam",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-175",
+    "consumerName": "Senthil Natarajan",
+    "phone": "+91 9895747782",
+    "address": "61/5, MGR Street, Rangampalayam, Erode",
+    "areaId": "AREA-18",
+    "areaName": "Rangampalayam",
+    "totalOrdersHistory": 15,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-176",
+    "consumerName": "Vidya Selvam",
+    "phone": "+91 9980042960",
+    "address": "86/6, Periyar Street, Rangampalayam, Erode",
+    "areaId": "AREA-18",
+    "areaName": "Rangampalayam",
+    "totalOrdersHistory": 16,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-177",
+    "consumerName": "Ashok Sundaram",
+    "phone": "+91 9918142266",
+    "address": "76/7, VOB Street, Rangampalayam, Erode",
+    "areaId": "AREA-18",
+    "areaName": "Rangampalayam",
+    "totalOrdersHistory": 15,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-178",
+    "consumerName": "Gayathri Chandran",
+    "phone": "+91 9961717269",
+    "address": "55/8, Integration Layout, Rangampalayam, Erode",
+    "areaId": "AREA-18",
+    "areaName": "Rangampalayam",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-179",
+    "consumerName": "Prabhu Venkatesan",
+    "phone": "+91 9917838131",
+    "address": "47/9, Bhavani Cut Rd, Rangampalayam, Erode",
+    "areaId": "AREA-18",
+    "areaName": "Rangampalayam",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-180",
+    "consumerName": "Arun Balakrishnan",
+    "phone": "+91 9866978139",
+    "address": "8/10, Station Road, Rangampalayam, Erode",
+    "areaId": "AREA-18",
+    "areaName": "Rangampalayam",
+    "totalOrdersHistory": 6,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-181",
+    "consumerName": "Priya Chandran",
+    "phone": "+91 9872199396",
+    "address": "82/1, Bharathi Nagar, Vendipalayam, Erode",
+    "areaId": "AREA-19",
+    "areaName": "Vendipalayam",
+    "totalOrdersHistory": 15,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-182",
+    "consumerName": "Kumar Venkatesan",
+    "phone": "+91 9841778292",
+    "address": "88/2, Nehru Street, Vendipalayam, Erode",
+    "areaId": "AREA-19",
+    "areaName": "Vendipalayam",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-183",
+    "consumerName": "Suresh Balakrishnan",
+    "phone": "+91 9912126334",
+    "address": "34/3, Gandhi Avenue, Vendipalayam, Erode",
+    "areaId": "AREA-19",
+    "areaName": "Vendipalayam",
+    "totalOrdersHistory": 4,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-184",
+    "consumerName": "Lakshmi Moorthy",
+    "phone": "+91 9925249276",
+    "address": "64/4, MGR Street, Vendipalayam, Erode",
+    "areaId": "AREA-19",
+    "areaName": "Vendipalayam",
+    "totalOrdersHistory": 3,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-185",
+    "consumerName": "Vijay Ganesan",
+    "phone": "+91 9914521431",
+    "address": "52/5, Periyar Street, Vendipalayam, Erode",
+    "areaId": "AREA-19",
+    "areaName": "Vendipalayam",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-186",
+    "consumerName": "Kavitha Krishnan",
+    "phone": "+91 9833620339",
+    "address": "80/6, VOB Street, Vendipalayam, Erode",
+    "areaId": "AREA-19",
+    "areaName": "Vendipalayam",
+    "totalOrdersHistory": 5,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-187",
+    "consumerName": "Deepak Shanmugam",
+    "phone": "+91 9966063271",
+    "address": "89/7, Integration Layout, Vendipalayam, Erode",
+    "areaId": "AREA-19",
+    "areaName": "Vendipalayam",
+    "totalOrdersHistory": 14,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-188",
+    "consumerName": "Anitha Pandian",
+    "phone": "+91 9859847169",
+    "address": "114/8, Bhavani Cut Rd, Vendipalayam, Erode",
+    "areaId": "AREA-19",
+    "areaName": "Vendipalayam",
+    "totalOrdersHistory": 14,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-189",
+    "consumerName": "Ramesh Elangovan",
+    "phone": "+91 9880899952",
+    "address": "77/9, Station Road, Vendipalayam, Erode",
+    "areaId": "AREA-19",
+    "areaName": "Vendipalayam",
+    "totalOrdersHistory": 7,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-190",
+    "consumerName": "Meena Pillai",
+    "phone": "+91 9852822336",
+    "address": "14/10, Temple View Rd, Vendipalayam, Erode",
+    "areaId": "AREA-19",
+    "areaName": "Vendipalayam",
+    "totalOrdersHistory": 12,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-191",
+    "consumerName": "Santhosh Pandian",
+    "phone": "+91 9907029127",
+    "address": "12/1, Nehru Street, Railway Colony, Erode",
+    "areaId": "AREA-20",
+    "areaName": "Railway Colony",
+    "totalOrdersHistory": 16,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-192",
+    "consumerName": "Divya Elangovan",
+    "phone": "+91 9968859860",
+    "address": "108/2, Gandhi Avenue, Railway Colony, Erode",
+    "areaId": "AREA-20",
+    "areaName": "Railway Colony",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-193",
+    "consumerName": "Gokul Pillai",
+    "phone": "+91 9941013127",
+    "address": "91/3, MGR Street, Railway Colony, Erode",
+    "areaId": "AREA-20",
+    "areaName": "Railway Colony",
+    "totalOrdersHistory": 17,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-194",
+    "consumerName": "Nandhini Chettiar",
+    "phone": "+91 9890093618",
+    "address": "78/4, Periyar Street, Railway Colony, Erode",
+    "areaId": "AREA-20",
+    "areaName": "Railway Colony",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-195",
+    "consumerName": "Karthik Gounder",
+    "phone": "+91 9897016118",
+    "address": "53/5, VOB Street, Railway Colony, Erode",
+    "areaId": "AREA-20",
+    "areaName": "Railway Colony",
+    "totalOrdersHistory": 8,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-196",
+    "consumerName": "Bhavana Naidu",
+    "phone": "+91 9983112480",
+    "address": "31/6, Integration Layout, Railway Colony, Erode",
+    "areaId": "AREA-20",
+    "areaName": "Railway Colony",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-197",
+    "consumerName": "Dinesh Kumar",
+    "phone": "+91 9819218223",
+    "address": "60/7, Bhavani Cut Rd, Railway Colony, Erode",
+    "areaId": "AREA-20",
+    "areaName": "Railway Colony",
+    "totalOrdersHistory": 16,
+    "consumerType": "Commercial"
+  },
+  {
+    "consumerId": "CUS-198",
+    "consumerName": "Radha Subramanian",
+    "phone": "+91 9984960778",
+    "address": "56/8, Station Road, Railway Colony, Erode",
+    "areaId": "AREA-20",
+    "areaName": "Railway Colony",
+    "totalOrdersHistory": 15,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-199",
+    "consumerName": "Rajesh Rajan",
+    "phone": "+91 9833165420",
+    "address": "21/9, Temple View Rd, Railway Colony, Erode",
+    "areaId": "AREA-20",
+    "areaName": "Railway Colony",
+    "totalOrdersHistory": 4,
+    "consumerType": "Residential"
+  },
+  {
+    "consumerId": "CUS-200",
+    "consumerName": "Swathi Murugan",
+    "phone": "+91 9806660509",
+    "address": "1/10, Market Street, Railway Colony, Erode",
+    "areaId": "AREA-20",
+    "areaName": "Railway Colony",
+    "totalOrdersHistory": 13,
+    "consumerType": "Residential"
+  }
+]

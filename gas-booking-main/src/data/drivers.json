@@ -1,0 +1,92 @@
+[
+  {
+    "driverId": "DRV-001",
+    "driverName": "Ramesh Kumar",
+    "phone": "+91 98421 10001",
+    "license": "TN33-2018-00912",
+    "experience": "8 yrs",
+    "rating": 4.9,
+    "status": "Active"
+  },
+  {
+    "driverId": "DRV-002",
+    "driverName": "Suresh Murugan",
+    "phone": "+91 98421 10002",
+    "license": "TN33-2019-00452",
+    "experience": "6 yrs",
+    "rating": 4.8,
+    "status": "Active"
+  },
+  {
+    "driverId": "DRV-003",
+    "driverName": "Karthik Raja",
+    "phone": "+91 98421 10003",
+    "license": "TN33-2020-00123",
+    "experience": "5 yrs",
+    "rating": 4.7,
+    "status": "Active"
+  },
+  {
+    "driverId": "DRV-004",
+    "driverName": "Venkatesh P",
+    "phone": "+91 98421 10004",
+    "license": "TN33-2017-00881",
+    "experience": "9 yrs",
+    "rating": 4.95,
+    "status": "Active"
+  },
+  {
+    "driverId": "DRV-005",
+    "driverName": "Mani Kandan",
+    "phone": "+91 98421 10005",
+    "license": "TN33-2021-00331",
+    "experience": "4 yrs",
+    "rating": 4.65,
+    "status": "Active"
+  },
+  {
+    "driverId": "DRV-006",
+    "driverName": "Ganesh Moorthy",
+    "phone": "+91 98421 10006",
+    "license": "TN33-2016-00774",
+    "experience": "11 yrs",
+    "rating": 4.9,
+    "status": "Active"
+  },
+  {
+    "driverId": "DRV-007",
+    "driverName": "Dhana Sekaran",
+    "phone": "+91 98421 10007",
+    "license": "TN33-2022-00512",
+    "experience": "3 yrs",
+    "rating": 4.6,
+    "status": "Active"
+  },
+  {
+    "driverId": "DRV-008",
+    "driverName": "Anbarasu V",
+    "phone": "+91 98421 10008",
+    "license": "TN33-2019-00998",
+    "experience": "7 yrs",
+    "rating": 4.85,
+    "status": "Active"
+  },
+  {
+    "driverId": "DRV-009",
+    "driverName": "Saravanan T",
+    "phone": "+91 98421 10009",
+    "license": "TN33-2020-00441",
+    "experience": "5 yrs",
+    "rating": 4.75,
+    "status": "Standby"
+  },
+  {
+    "driverId": "DRV-010",
+    "driverName": "Praveen Kumar",
+    "phone": "+91 98421 10010",
+    "license": "TN33-2023-00109",
+    "experience": "2 yrs",
+    "rating": 4.5,
+    "status": "Standby"
+  }
+]

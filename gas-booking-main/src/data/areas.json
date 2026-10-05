@@ -1,0 +1,359 @@
+[
+  {
+    "areaId": "AREA-01",
+    "areaName": "Gandhi Nagar",
+    "group": "North Cluster",
+    "latitude": 11.352,
+    "longitude": 77.712,
+    "nearestAreas": [
+      "AREA-02",
+      "AREA-05",
+      "AREA-20"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-01",
+    "assignedVehicle": "TN-33-AB-1001",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-02",
+    "areaName": "Perundurai Road",
+    "group": "North Cluster",
+    "latitude": 11.358,
+    "longitude": 77.705,
+    "nearestAreas": [
+      "AREA-01",
+      "AREA-03",
+      "AREA-17"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-01",
+    "assignedVehicle": "TN-33-AB-1001",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-03",
+    "areaName": "Chithode",
+    "group": "Far North Cluster",
+    "latitude": 11.382,
+    "longitude": 77.691,
+    "nearestAreas": [
+      "AREA-02",
+      "AREA-04",
+      "AREA-17"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-02",
+    "assignedVehicle": "TN-33-AB-1002",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-04",
+    "areaName": "Bhavani Road",
+    "group": "Far North Cluster",
+    "latitude": 11.41,
+    "longitude": 77.68,
+    "nearestAreas": [
+      "AREA-03",
+      "AREA-05"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-02",
+    "assignedVehicle": "TN-33-AB-1002",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-05",
+    "areaName": "Veerappanchatram",
+    "group": "North East Cluster",
+    "latitude": 11.365,
+    "longitude": 77.728,
+    "nearestAreas": [
+      "AREA-01",
+      "AREA-06",
+      "AREA-07"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-01",
+    "assignedVehicle": "TN-33-AB-1001",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-06",
+    "areaName": "BPL Nagar",
+    "group": "North East Cluster",
+    "latitude": 11.37,
+    "longitude": 77.739,
+    "nearestAreas": [
+      "AREA-05",
+      "AREA-08",
+      "AREA-19"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-03",
+    "assignedVehicle": "TN-33-AB-1003",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-07",
+    "areaName": "Sampath Nagar",
+    "group": "East Central Cluster",
+    "latitude": 11.348,
+    "longitude": 77.73,
+    "nearestAreas": [
+      "AREA-05",
+      "AREA-08",
+      "AREA-18"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-03",
+    "assignedVehicle": "TN-33-AB-1003",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-08",
+    "areaName": "Soolai",
+    "group": "East Cluster",
+    "latitude": 11.353,
+    "longitude": 77.751,
+    "nearestAreas": [
+      "AREA-06",
+      "AREA-07",
+      "AREA-19"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-03",
+    "assignedVehicle": "TN-33-AB-1003",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-09",
+    "areaName": "Surampatti",
+    "group": "South East Cluster",
+    "latitude": 11.328,
+    "longitude": 77.729,
+    "nearestAreas": [
+      "AREA-07",
+      "AREA-10",
+      "AREA-18"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-04",
+    "assignedVehicle": "TN-33-AB-1004",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-10",
+    "areaName": "Solar",
+    "group": "Far South East Cluster",
+    "latitude": 11.301,
+    "longitude": 77.76,
+    "nearestAreas": [
+      "AREA-09",
+      "AREA-11",
+      "AREA-19"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-05",
+    "assignedVehicle": "TN-33-AB-1005",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-11",
+    "areaName": "Kaspapettai",
+    "group": "Far South Cluster",
+    "latitude": 11.285,
+    "longitude": 77.721,
+    "nearestAreas": [
+      "AREA-10",
+      "AREA-12"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-05",
+    "assignedVehicle": "TN-33-AB-1005",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-12",
+    "areaName": "Moolapalayam",
+    "group": "South Cluster",
+    "latitude": 11.315,
+    "longitude": 77.71,
+    "nearestAreas": [
+      "AREA-09",
+      "AREA-11",
+      "AREA-13"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-04",
+    "assignedVehicle": "TN-33-AB-1004",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-13",
+    "areaName": "Kasipalayam",
+    "group": "South West Cluster",
+    "latitude": 11.321,
+    "longitude": 77.695,
+    "nearestAreas": [
+      "AREA-12",
+      "AREA-14",
+      "AREA-20"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-06",
+    "assignedVehicle": "TN-33-AB-1006",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-14",
+    "areaName": "Thindal",
+    "group": "West Cluster",
+    "latitude": 11.332,
+    "longitude": 77.674,
+    "nearestAreas": [
+      "AREA-13",
+      "AREA-15",
+      "AREA-16"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-06",
+    "assignedVehicle": "TN-33-AB-1006",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-15",
+    "areaName": "Sengodampalayam",
+    "group": "Far West Cluster",
+    "latitude": 11.339,
+    "longitude": 77.651,
+    "nearestAreas": [
+      "AREA-14",
+      "AREA-16",
+      "AREA-17"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-06",
+    "assignedVehicle": "TN-33-AB-1006",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-16",
+    "areaName": "Perundurai Town",
+    "group": "Outer West Cluster",
+    "latitude": 11.275,
+    "longitude": 77.585,
+    "nearestAreas": [
+      "AREA-14",
+      "AREA-15"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-07",
+    "assignedVehicle": "TN-33-AB-1007",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-17",
+    "areaName": "Nasiyanur",
+    "group": "North West Outer Cluster",
+    "latitude": 11.375,
+    "longitude": 77.632,
+    "nearestAreas": [
+      "AREA-02",
+      "AREA-03",
+      "AREA-15"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-02",
+    "assignedVehicle": "TN-33-AB-1002",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-18",
+    "areaName": "Rangampalayam",
+    "group": "East Central Cluster",
+    "latitude": 11.331,
+    "longitude": 77.741,
+    "nearestAreas": [
+      "AREA-07",
+      "AREA-09",
+      "AREA-19"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-08",
+    "assignedVehicle": "TN-33-AB-1008",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-19",
+    "areaName": "Vendipalayam",
+    "group": "Far East Cluster",
+    "latitude": 11.341,
+    "longitude": 77.768,
+    "nearestAreas": [
+      "AREA-08",
+      "AREA-10",
+      "AREA-18"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-08",
+    "assignedVehicle": "TN-33-AB-1008",
+    "priorityLevel": "High"
+  },
+  {
+    "areaId": "AREA-20",
+    "areaName": "Railway Colony",
+    "group": "Central Hub Cluster",
+    "latitude": 11.336,
+    "longitude": 77.719,
+    "nearestAreas": [
+      "AREA-01",
+      "AREA-07",
+      "AREA-13"
+    ],
+    "totalOrders": 10,
+    "totalCylinders": 15,
+    "avgDistance": 3.2,
+    "assignedRoute": "ROUTE-04",
+    "assignedVehicle": "TN-33-AB-1004",
+    "priorityLevel": "High"
+  }
+]
